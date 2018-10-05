@@ -3,7 +3,7 @@ package at.htl.mydate;
 import java.util.Scanner;
 
 /**
- * Jakob Ratzenboeck
+ * Jakob Ratzenböck
  */
 
 public class Main {
